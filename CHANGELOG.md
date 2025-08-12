@@ -1,4 +1,4 @@
-# Bitcoin Node Manager Changelog
+# Bitgesell Node Manager Changelog
 
 ## 1.4.0 - 2023-07-27
 
