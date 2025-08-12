@@ -1,10 +1,8 @@
-# Bitcoin Node Manager
+# Bitgesell Node Manager
 
 ![](https://user-images.githubusercontent.com/13236924/102018547-2c11e800-3d6e-11eb-96bb-e0bccf76977e.png)
 
-Bitcoin Node Manager (BNM) is a lightweight dashboard and control system for your Bitcoin node. 
-
-Check out [ElextrumX Dashboard](https://github.com/Mirobit/electrumx-dashboard) if you run an Electrumx Server.
+Bitgesell Node Manager (BGLM) is a lightweight dashboard and control system for your Bitcoin node. 
 
 ## Features
 
@@ -26,7 +24,7 @@ Check out [ElextrumX Dashboard](https://github.com/Mirobit/electrumx-dashboard) 
 
 ## Requirements
 
-- Bitcoin Core 0.19.0.1+
+- Bitgesell Core 0.13.0+
 - Web Server (Apache, Nginx, PHP Server)
 - PHP 7.3.0+
   - curl extension
@@ -35,8 +33,8 @@ Check out [ElextrumX Dashboard](https://github.com/Mirobit/electrumx-dashboard) 
 ## Installation
 
 1. Clone the repository.
-2. Make sure `bitcoind` (`-daemon`) is running. If you use `bitcoin-qt` set `server=1` in the `bitcoin.conf` file.
-3. Copy `src/Config.sample.php` and remove `.sample`. Open `src/Config.php` and enter your Bitcoin Core RPC credentials and set the BNM password.
+2. Make sure `BGLd` (`-daemon`) is running, set `server=1` in the `BGL.conf` file.
+3. Copy `src/Config.sample.php` and remove `.sample`. Open `src/Config.php` and enter your Bitgesell Core RPC credentials and set the BNM password.
 
 ### Manual setup
 
