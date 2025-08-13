@@ -340,13 +340,13 @@ body .container.body .right_col {
 
 .green {
   color: #1ABB9C; }
-  
+
 .orange {
   color: #FFD800; }
 
 .darkorange {
     color: #f19132}
-    
+
 .aero {
   color: #9CC2CB; }
 
@@ -454,11 +454,11 @@ body {
 
 .page-title .title_right .pull-right {
   margin: 10px 0; }
-  
-/* Added manually   
+
+/* Added manually
 .pull-right {
     margin-top: 3px;}*/
-    
+
 .fa-reddit-alien:hover {
     color: #CEE3F8;
 }
@@ -474,37 +474,37 @@ body {
 .github-hover:hover {
     color: #F4CBB2;
 }
-    
+
 table.mempooltable {
   width: 100%; }
 
 table.mempooltable td {
   line-height: 30px; }
-  
+
 .btn-manage {
   color: #fff;
   background-color: #337ab7;
 }
-  
+
 .badge{
     background-color: rgb(123, 87, 232);}
 
 .dataTables_exportbtn{
-     float: right; 
+     float: right;
      margin-left: 15px;
-} 
+}
 
 .btn-export{
     color: #fff;
     background-color: rgb(123, 87, 232);
     border-color: rgb(123, 87, 232);
-}   
+}
 .modal-ms {
     width: 550px;
   }
-} 
- 
- 
+}
+
+
 .fixed_height_320 {
   height: 320px; }
 
@@ -681,21 +681,21 @@ a:hover, a:focus {
 .nav.child_menu li li a:hover,
 .nav.child_menu li li a.active {
   color: #fff; }
-  
-   /* Special sidemenu a link (add before .nav.child_menu { to expand all li by default)*/ 
- 
+
+   /* Special sidemenu a link (add before .nav.child_menu { to expand all li by default)*/
+
 .nav.side-menu > a{
   color: #E7E7E7;
-  font-weight: 500;    
+  font-weight: 500;
   position: relative;
   display: block;
   padding: 13px 15px 12px; }
-  
+
 .nav.side-menu > a:hover {
   border-right: 5px solid #1ABB9C;
   text-shadow: rgba(0, 0, 0, 0.25) 0 -1px 0;
-  background: linear-gradient(#334556, #2C4257), rgb(123, 87, 232);
-  box-shadow: rgba(0, 0, 0, 0.25) 0 1px 0, inset rgba(255, 255, 255, 0.16) 0 1px 0; }    
+    background: linear-gradient(#00045A, #00045C), rgb(123, 87, 232);
+  box-shadow: rgba(0, 0, 0, 0.25) 0 1px 0, inset rgba(255, 255, 255, 0.16) 0 1px 0;
 }
 
 .nav > li > a {
@@ -708,12 +708,12 @@ a:hover, a:focus {
 
   /** Added **/
 .nav.side-menu > a.active {
-  border-right: 5px solid #1ABB9C; 
+  border-right: 5px solid #1ABB9C;
   text-shadow: rgba(0, 0, 0, 0.25) 0 -1px 0;
-  background: linear-gradient(#334556, #2C4257), rgb(123, 87, 232);
+  background: linear-gradient(#00045A, #00045C), rgb(123, 87, 232);
   box-shadow: rgba(0, 0, 0, 0.25) 0 1px 0, inset rgba(255, 255, 255, 0.16) 0 1px 0; }
-  
-  
+
+
 .nav li.current-page {
   background: rgba(255, 255, 255, 0.05); }
 
@@ -1655,7 +1655,7 @@ span.right {
     font-size: 13px; } }
 .tile_count .tile_stats_count .count_bottom i {
   width: 12px; }
-  
+
 .count_bottom .fa {
   margin-right: 5px; }
 
@@ -3968,7 +3968,7 @@ ul.verticle_bars li {
   color: #E9EDEF;
   background-color: rgba(52, 152, 219, 0.88);
   border-color: rgba(52, 152, 219, 0.88); }
-  
+
 .alert-config {
   color: #31708f;
   background-color: #d9edf7;
@@ -4106,7 +4106,7 @@ ul.notifications {
   .mobilelogo {
     background-color: rgb(123, 87, 232);
     color: white;
-  } 
+  }
 }
  .tor-address {
   text-decoration: underline;
