@@ -91,7 +91,7 @@
 
 @charset "UTF-8";
 .left_col {
-  background: #2A3F54; }
+  background: rgb(123, 87, 232); }
 
 .nav-sm .container.body .col-md-3.left_col {
   min-height: 100%;
@@ -296,7 +296,7 @@ body .container.body .right_col {
 .nav_title {
   width: 230px;
   float: left;
-  background: #2A3F54;
+  background: rgb(123, 87, 232);
   border-radius: 0;
   height: 57px; }
 
@@ -421,7 +421,7 @@ body .container.body .right_col {
 
 body {
   color: #73879C;
-  background: #2A3F54;
+  background: rgb(123, 87, 232);
   font-family: "Helvetica Neue", Roboto, Arial, "Droid Sans", sans-serif;
   font-size: 13px;
   font-weight: 400;
@@ -487,7 +487,7 @@ table.mempooltable td {
 }
   
 .badge{
-    background-color: #2A3F54;}
+    background-color: rgb(123, 87, 232);}
 
 .dataTables_exportbtn{
      float: right; 
@@ -496,8 +496,8 @@ table.mempooltable td {
 
 .btn-export{
     color: #fff;
-    background-color: #2A3F54;
-    border-color: #2A3F54;
+    background-color: rgb(123, 87, 232);
+    border-color: rgb(123, 87, 232);
 }   
 .modal-ms {
     width: 550px;
@@ -694,7 +694,7 @@ a:hover, a:focus {
 .nav.side-menu > a:hover {
   border-right: 5px solid #1ABB9C;
   text-shadow: rgba(0, 0, 0, 0.25) 0 -1px 0;
-  background: linear-gradient(#334556, #2C4257), #2A3F54;
+  background: linear-gradient(#334556, #2C4257), rgb(123, 87, 232);
   box-shadow: rgba(0, 0, 0, 0.25) 0 1px 0, inset rgba(255, 255, 255, 0.16) 0 1px 0; }    
 }
 
@@ -710,7 +710,7 @@ a:hover, a:focus {
 .nav.side-menu > a.active {
   border-right: 5px solid #1ABB9C; 
   text-shadow: rgba(0, 0, 0, 0.25) 0 -1px 0;
-  background: linear-gradient(#334556, #2C4257), #2A3F54;
+  background: linear-gradient(#334556, #2C4257), rgb(123, 87, 232);
   box-shadow: rgba(0, 0, 0, 0.25) 0 1px 0, inset rgba(255, 255, 255, 0.16) 0 1px 0; }
   
   
@@ -725,7 +725,7 @@ a:hover, a:focus {
 
 .nav.side-menu > li.active > a {
   text-shadow: rgba(0, 0, 0, 0.25) 0 -1px 0;
-  background: linear-gradient(#334556, #2C4257), #2A3F54;
+  background: linear-gradient(#334556, #2C4257), rgb(123, 87, 232);
   box-shadow: rgba(0, 0, 0, 0.25) 0 1px 0, inset rgba(255, 255, 255, 0.16) 0 1px 0; }
 
 .navbar-brand, .navbar-nav > li > a {
@@ -1590,7 +1590,7 @@ span.right {
   padding: 5px 0 0 0;
   position: fixed;
   width: 230px;
-  background: #2A3F54; }
+  background: rgb(123, 87, 232); }
 
 .sidebar-footer a {
   padding: 7px 0 3px;
@@ -4104,7 +4104,7 @@ ul.notifications {
   }
   /* Style the active link (or home/logo) */
   .mobilelogo {
-    background-color: #2A3F54;
+    background-color: rgb(123, 87, 232);
     color: white;
   } 
 }
